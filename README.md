@@ -212,3 +212,8 @@ host    all             all             ::1/128                 md5
 ```
 Save and exit.  
 Run the following command: `sudo service apache2 restart`
+
+Sources: [Udacity](https://classroom.udacity.com/courses/ud299), [liliketomatoes](https://github.com/iliketomatoes/linux_server_configuration), [A2hosting](https://www.a2hosting.com/kb/developer-corner/postgresql/managing-postgresql-databases-and-users-from-the-command-line#Creating-PostgreSQL-users)
+
+### LICENCE
+https://choosealicense.com/
